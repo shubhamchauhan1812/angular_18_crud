@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+ng snimport { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { FormControl, FormGroup, ReactiveFormsModule, Validators } from '@angular/forms';
 import { EmployeeModel } from './model/Employee';
